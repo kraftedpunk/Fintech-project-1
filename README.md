@@ -3,15 +3,15 @@ Fintech Project
 
 Coins to use: 
 Iota = *must figure out % distribution 
-Bitcoin
-Etherium
-Dogecoin
-Stellar
-XPR
-Monero
-Litecoin
-Cardano
-Binance
+Bitcoin =
+Etherium = 
+Dogecoin = 
+Stellar = 
+XPR = 
+Monero = 
+Litecoin = 
+Cardano = 
+Binance = 
 
 
 start date: 1/1/2018

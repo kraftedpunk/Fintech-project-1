@@ -2,7 +2,11 @@
 import numpy as np
 import pandas as pd
 import os
+<<<<<<< Updated upstream
 import alpaca_trade_api as tradeapi
+=======
+
+>>>>>>> Stashed changes
 import datetime as dt
 import pytz
 
